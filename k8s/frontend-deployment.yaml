@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: inventory-frontend
-          image: 235494811179.dkr.ecr.us-east-1.amazonaws.com/inventory-frontend:latest
+          image: 235494811179.dkr.ecr.us-east-2.amazonaws.com/inventory-frontend:latest
           ports:
             - containerPort: 80
 ---
