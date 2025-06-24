@@ -8,8 +8,8 @@ env:
     IMAGE_REPO_FRONTEND: 235494811179.dkr.ecr.us-east-2.amazonaws.com/inventory-frontend
     AWS_DEFAULT_REGION: us-east-2
     SONAR_SCANNER_VERSION: 5.0.1.3006
-    SONAR_HOST_URL: http://3.92.231.52
-    SONAR_LOGIN: sqp_51f14dc3c99ed3b3dcaa80dbb73f0ce899452cf9
+    SONAR_HOST_URL: http://44.211.210.52
+    SONAR_LOGIN: sqp_c9a3aa4ba279b8808204bcd7a0c7d3665611e629
     SONAR_PROJECT_KEY: juhi-final
     EKS_CLUSTER_NAME: MyEKSCluster
 
